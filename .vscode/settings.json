@@ -1,0 +1,60 @@
+{
+  "github.copilot.chat.mcp.servers": {
+    "azure": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@azure/mcp@2.0.0-beta.19"
+      ],
+      "env": {}
+    },
+    "azure-devops": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@azure-devops/mcp@2.4.0"
+      ],
+      "env": {}
+    },
+    "bicep": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@azure/mcp-bicep@latest"
+      ],
+      "env": {}
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/pla@latest"
+      ],
+      "env": {}
+    },
+    "pylance": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/mcp-server-pylance@latest"
+      ],
+      "env": {}
+    },
+    "servicenow": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@servicenow/mcp-server@latest"
+      ],
+      "env": {}
+    },
+    "markitdown": {
+      "command": "/Users/jankopmels/code/genai/tata/base/.venv/bin/python",
+      "args": [
+        "-m",
+        "markitdown_mcp"
+      ],
+      "env": {}
+    }
+  }
+}
