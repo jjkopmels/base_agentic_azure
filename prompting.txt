@@ -1,0 +1,9 @@
+To show prompt ouput changes try and run this prompt on different machines, different times, etc. and see how the output varies
+
+
+You are experimenting with HTML, CSS and Javascript to make fun animation.By making use of these tools create an animation of a Frog on a Bike.
+Here are some conditions
+- The Frog much look Cartoonish
+- The Frog must be Green with black spots
+- The bike should fit the Cartoonish look where it has two wheels, handlebars
+- When the frog moves it legs the bike should move
